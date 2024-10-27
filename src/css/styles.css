@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Young+Serif&display=swap');
 
 @font-face {
+    font-family: young-serif;
+    src: url('../../assets/fonts/young-serif/YoungSerif-Regular.ttf') format("truetype");
+}
+
+@font-face {
     font-family: outfit-variable;
-    src: url('../../assets/fonts/outfit/static/Outfit-Thin.ttf'),
-    url('../../assets/fonts/outfit/static/Outfit-SemiBold.ttf'),
-    url('../../assets/fonts/outfit/static/Outfit-Regular.ttf'),
-    url('../../assets/fonts/outfit/static/Outfit-Medium.ttf'),
-    url('../../assets/fonts/outfit/static/Outfit-Bold.ttf'),
-    url('../../assets/fonts/outfit/static/Outfit-Black.ttf'),
-    url('../../assets/fonts/outfit/static/Outfit-ExtraBold.ttf');
+    src: url('../../assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format("truetype");
 }
 
 /*
