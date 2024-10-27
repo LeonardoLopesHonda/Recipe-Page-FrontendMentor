@@ -1,12 +1,8 @@
-@font-face {
-    font-family: young-serif;
-    src: url('../../assets/fonts/young-serif/YoungSerif-Regular.ttf');
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Young+Serif&display=swap');
 
 @font-face {
     font-family: outfit-variable;
-    src: url('../../assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
-    font-weight: 400 600 700;
+    src: url('../../assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format("truetype");
 }
 
 /*
